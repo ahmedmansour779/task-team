@@ -1,0 +1,24 @@
+{
+    "home": {
+        "title": "المهمة",
+        "taskName": "اسم المهمة",
+        "taskDescription": "وصف المهمة",
+        "add": "اضافه مهمة",
+        "addBtn": "اضافه",
+        "delete": "حذف",
+        "edit": "تعديل",
+        "lastUpdate": "اخر تحديث",
+        "id": "الرقم التعريفي",
+        "confirmDeleteMsg": "هل متاكد من حذف هذه المهمة",
+        "yes": "نعم",
+        "no": "لا",
+        "search": "بحث",
+        "filter": "فرز",
+        "fromNewestToOldest": "من الاحدث الي الاقدم",
+        "fromOldestToNewest": "من الاقدم الي الاحدث",
+        "alphabetic": "ابجدي",
+        "myTasks": "مهامي",
+        "footer": "تم تطوير هذا الموقع بواسطه المهندس احمد منصور",
+        "msgNoTasks": "لا يوجد مهام لعرضها يرجي اضافه بعض المهام "
+    }
+}

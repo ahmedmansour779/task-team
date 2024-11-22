@@ -1,0 +1,24 @@
+{
+    "home": {
+        "title": "To Do",
+        "taskName": "Task Name",
+        "taskDescription": "Task Description",
+        "add": "add task",
+        "addBtn": "add",
+        "delete": "delete",
+        "edit": "edit",
+        "lastUpdate": "Last update",
+        "id": "id",
+        "confirmDeleteMsg": "Are you sure you want to delete the task?",
+        "yes": "yes",
+        "no": "no",
+        "search": "search",
+        "filter": "filter",
+        "fromNewestToOldest": "From newest to oldest",
+        "fromOldestToNewest": "From oldest to newest",
+        "alphabetic": "alphabetic",
+        "myTasks": "my tasks",
+        "footer": "This site was developed by Eng. Ahmed Mansour",
+        "msgNoTasks": "There are no tasks to display. Please add some tasks."
+    }
+}
